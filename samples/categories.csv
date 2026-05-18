@@ -1,0 +1,136 @@
+category_id,category_name,parent_category_id,level,super_category_id,super_category_name,is_premium
+CAT0001,Grocery & Staples,,1,CAT0001,Grocery & Staples,0
+CAT0002,Personal Care & Beauty,,1,CAT0002,Personal Care & Beauty,0
+CAT0003,Home & Kitchen,,1,CAT0003,Home & Kitchen,0
+CAT0004,Electronics & Appliances,,1,CAT0004,Electronics & Appliances,0
+CAT0005,Fashion & Apparel,,1,CAT0005,Fashion & Apparel,0
+CAT0006,"Baby, Kids & Toys",,1,CAT0006,"Baby, Kids & Toys",0
+CAT0007,Grocery & Staples / Spices,CAT0001,2,CAT0001,Grocery & Staples,0
+CAT0008,Spices - Imported,CAT0007,3,CAT0001,Grocery & Staples,1
+CAT0009,Spices - Family Pack,CAT0007,3,CAT0001,Grocery & Staples,0
+CAT0010,Spices - Premium,CAT0007,3,CAT0001,Grocery & Staples,1
+CAT0011,Spices - Mini,CAT0007,3,CAT0001,Grocery & Staples,0
+CAT0012,Spices - Combo,CAT0007,3,CAT0001,Grocery & Staples,1
+CAT0013,Spices - Combo,CAT0007,3,CAT0001,Grocery & Staples,0
+CAT0014,Grocery & Staples / Atta & Rice,CAT0001,2,CAT0001,Grocery & Staples,0
+CAT0015,Atta & Rice - Family Pack,CAT0014,3,CAT0001,Grocery & Staples,0
+CAT0016,Atta & Rice - Refill,CAT0014,3,CAT0001,Grocery & Staples,0
+CAT0017,Atta & Rice - Bulk,CAT0014,3,CAT0001,Grocery & Staples,1
+CAT0018,Grocery & Staples / Dairy,CAT0001,2,CAT0001,Grocery & Staples,0
+CAT0019,Dairy - Refill,CAT0018,3,CAT0001,Grocery & Staples,1
+CAT0020,Dairy - Mini,CAT0018,3,CAT0001,Grocery & Staples,1
+CAT0021,Dairy - Organic,CAT0018,3,CAT0001,Grocery & Staples,0
+CAT0022,Dairy - Trial,CAT0018,3,CAT0001,Grocery & Staples,0
+CAT0023,Dairy - Imported,CAT0018,3,CAT0001,Grocery & Staples,1
+CAT0024,Dairy - Imported,CAT0018,3,CAT0001,Grocery & Staples,1
+CAT0025,Personal Care & Beauty / Fragrances,CAT0002,2,CAT0002,Personal Care & Beauty,0
+CAT0026,Fragrances - Mini,CAT0025,3,CAT0002,Personal Care & Beauty,0
+CAT0027,Fragrances - Combo,CAT0025,3,CAT0002,Personal Care & Beauty,0
+CAT0028,Fragrances - XL,CAT0025,3,CAT0002,Personal Care & Beauty,1
+CAT0029,Fragrances - Bulk,CAT0025,3,CAT0002,Personal Care & Beauty,0
+CAT0030,Fragrances - Imported,CAT0025,3,CAT0002,Personal Care & Beauty,1
+CAT0031,Personal Care & Beauty / Skincare,CAT0002,2,CAT0002,Personal Care & Beauty,0
+CAT0032,Skincare - Family Pack,CAT0031,3,CAT0002,Personal Care & Beauty,0
+CAT0033,Skincare - Imported,CAT0031,3,CAT0002,Personal Care & Beauty,1
+CAT0034,Skincare - Mini,CAT0031,3,CAT0002,Personal Care & Beauty,0
+CAT0035,Skincare - Single,CAT0031,3,CAT0002,Personal Care & Beauty,0
+CAT0036,Personal Care & Beauty / Wellness,CAT0002,2,CAT0002,Personal Care & Beauty,0
+CAT0037,Wellness - Premium,CAT0036,3,CAT0002,Personal Care & Beauty,1
+CAT0038,Wellness - XL,CAT0036,3,CAT0002,Personal Care & Beauty,0
+CAT0039,Wellness - Refill,CAT0036,3,CAT0002,Personal Care & Beauty,0
+CAT0040,Wellness - Value,CAT0036,3,CAT0002,Personal Care & Beauty,0
+CAT0041,Wellness - Bulk,CAT0036,3,CAT0002,Personal Care & Beauty,0
+CAT0042,Wellness - Organic,CAT0036,3,CAT0002,Personal Care & Beauty,0
+CAT0043,Wellness - Family Pack,CAT0036,3,CAT0002,Personal Care & Beauty,1
+CAT0044,Wellness - Single,CAT0036,3,CAT0002,Personal Care & Beauty,0
+CAT0045,Personal Care & Beauty / Haircare,CAT0002,2,CAT0002,Personal Care & Beauty,0
+CAT0046,Haircare - Premium,CAT0045,3,CAT0002,Personal Care & Beauty,1
+CAT0047,Haircare - Single,CAT0045,3,CAT0002,Personal Care & Beauty,0
+CAT0048,Haircare - Single,CAT0045,3,CAT0002,Personal Care & Beauty,0
+CAT0049,Haircare - Imported,CAT0045,3,CAT0002,Personal Care & Beauty,1
+CAT0050,Home & Kitchen / Home Decor,CAT0003,2,CAT0003,Home & Kitchen,0
+CAT0051,Home Decor - Trial,CAT0050,3,CAT0003,Home & Kitchen,0
+CAT0052,Home Decor - Combo,CAT0050,3,CAT0003,Home & Kitchen,0
+CAT0053,Home Decor - Trial,CAT0050,3,CAT0003,Home & Kitchen,1
+CAT0054,Home Decor - Imported,CAT0050,3,CAT0003,Home & Kitchen,1
+CAT0055,Home & Kitchen / Cleaning,CAT0003,2,CAT0003,Home & Kitchen,0
+CAT0056,Cleaning - Refill,CAT0055,3,CAT0003,Home & Kitchen,1
+CAT0057,Cleaning - Bulk,CAT0055,3,CAT0003,Home & Kitchen,0
+CAT0058,Cleaning - Imported,CAT0055,3,CAT0003,Home & Kitchen,1
+CAT0059,Cleaning - Mini,CAT0055,3,CAT0003,Home & Kitchen,0
+CAT0060,Cleaning - Refill,CAT0055,3,CAT0003,Home & Kitchen,1
+CAT0061,Cleaning - Organic,CAT0055,3,CAT0003,Home & Kitchen,0
+CAT0062,Home & Kitchen / Bath Linen,CAT0003,2,CAT0003,Home & Kitchen,0
+CAT0063,Bath Linen - Family Pack,CAT0062,3,CAT0003,Home & Kitchen,0
+CAT0064,Bath Linen - Mini,CAT0062,3,CAT0003,Home & Kitchen,1
+CAT0065,Bath Linen - XL,CAT0062,3,CAT0003,Home & Kitchen,0
+CAT0066,Bath Linen - Organic,CAT0062,3,CAT0003,Home & Kitchen,0
+CAT0067,Bath Linen - Value,CAT0062,3,CAT0003,Home & Kitchen,0
+CAT0068,Bath Linen - Trial,CAT0062,3,CAT0003,Home & Kitchen,0
+CAT0069,Electronics & Appliances / TV,CAT0004,2,CAT0004,Electronics & Appliances,0
+CAT0070,TV - Bulk,CAT0069,3,CAT0004,Electronics & Appliances,0
+CAT0071,TV - Organic,CAT0069,3,CAT0004,Electronics & Appliances,0
+CAT0072,TV - Value,CAT0069,3,CAT0004,Electronics & Appliances,0
+CAT0073,TV - Bulk,CAT0069,3,CAT0004,Electronics & Appliances,0
+CAT0074,Electronics & Appliances / Wearables,CAT0004,2,CAT0004,Electronics & Appliances,0
+CAT0075,Wearables - Premium,CAT0074,3,CAT0004,Electronics & Appliances,1
+CAT0076,Wearables - Family Pack,CAT0074,3,CAT0004,Electronics & Appliances,1
+CAT0077,Wearables - Single,CAT0074,3,CAT0004,Electronics & Appliances,1
+CAT0078,Wearables - Value,CAT0074,3,CAT0004,Electronics & Appliances,0
+CAT0079,Electronics & Appliances / Large Appliances,CAT0004,2,CAT0004,Electronics & Appliances,0
+CAT0080,Large Appliances - Refill,CAT0079,3,CAT0004,Electronics & Appliances,0
+CAT0081,Large Appliances - Mini,CAT0079,3,CAT0004,Electronics & Appliances,0
+CAT0082,Large Appliances - Family Pack,CAT0079,3,CAT0004,Electronics & Appliances,0
+CAT0083,Large Appliances - Combo,CAT0079,3,CAT0004,Electronics & Appliances,0
+CAT0084,Large Appliances - Bulk,CAT0079,3,CAT0004,Electronics & Appliances,0
+CAT0085,Large Appliances - Combo,CAT0079,3,CAT0004,Electronics & Appliances,0
+CAT0086,Large Appliances - Family Pack,CAT0079,3,CAT0004,Electronics & Appliances,0
+CAT0087,Large Appliances - Value,CAT0079,3,CAT0004,Electronics & Appliances,0
+CAT0088,Electronics & Appliances / Audio,CAT0004,2,CAT0004,Electronics & Appliances,0
+CAT0089,Audio - Premium,CAT0088,3,CAT0004,Electronics & Appliances,1
+CAT0090,Audio - Imported,CAT0088,3,CAT0004,Electronics & Appliances,1
+CAT0091,Audio - Trial,CAT0088,3,CAT0004,Electronics & Appliances,0
+CAT0092,Audio - Trial,CAT0088,3,CAT0004,Electronics & Appliances,0
+CAT0093,Audio - Value,CAT0088,3,CAT0004,Electronics & Appliances,0
+CAT0094,Audio - Value,CAT0088,3,CAT0004,Electronics & Appliances,0
+CAT0095,Audio - Family Pack,CAT0088,3,CAT0004,Electronics & Appliances,1
+CAT0096,Audio - Combo,CAT0088,3,CAT0004,Electronics & Appliances,0
+CAT0097,Fashion & Apparel / Womens Fashion,CAT0005,2,CAT0005,Fashion & Apparel,0
+CAT0098,Womens Fashion - XL,CAT0097,3,CAT0005,Fashion & Apparel,0
+CAT0099,Womens Fashion - Bulk,CAT0097,3,CAT0005,Fashion & Apparel,0
+CAT0100,Womens Fashion - Premium,CAT0097,3,CAT0005,Fashion & Apparel,1
+CAT0101,Womens Fashion - Value,CAT0097,3,CAT0005,Fashion & Apparel,0
+CAT0102,Womens Fashion - Single,CAT0097,3,CAT0005,Fashion & Apparel,0
+CAT0103,Fashion & Apparel / Ethnicwear,CAT0005,2,CAT0005,Fashion & Apparel,0
+CAT0104,Ethnicwear - Refill,CAT0103,3,CAT0005,Fashion & Apparel,0
+CAT0105,Ethnicwear - Imported,CAT0103,3,CAT0005,Fashion & Apparel,1
+CAT0106,Ethnicwear - Value,CAT0103,3,CAT0005,Fashion & Apparel,0
+CAT0107,Ethnicwear - Single,CAT0103,3,CAT0005,Fashion & Apparel,0
+CAT0108,Ethnicwear - Mini,CAT0103,3,CAT0005,Fashion & Apparel,0
+CAT0109,Ethnicwear - Refill,CAT0103,3,CAT0005,Fashion & Apparel,0
+CAT0110,Ethnicwear - Premium,CAT0103,3,CAT0005,Fashion & Apparel,1
+CAT0111,Fashion & Apparel / Footwear,CAT0005,2,CAT0005,Fashion & Apparel,0
+CAT0112,Footwear - XL,CAT0111,3,CAT0005,Fashion & Apparel,0
+CAT0113,Footwear - Mini,CAT0111,3,CAT0005,Fashion & Apparel,0
+CAT0114,Footwear - Mini,CAT0111,3,CAT0005,Fashion & Apparel,1
+CAT0115,"Baby, Kids & Toys / Baby Care",CAT0006,2,CAT0006,"Baby, Kids & Toys",0
+CAT0116,Baby Care - Single,CAT0115,3,CAT0006,"Baby, Kids & Toys",0
+CAT0117,Baby Care - Single,CAT0115,3,CAT0006,"Baby, Kids & Toys",0
+CAT0118,Baby Care - XL,CAT0115,3,CAT0006,"Baby, Kids & Toys",0
+CAT0119,Baby Care - XL,CAT0115,3,CAT0006,"Baby, Kids & Toys",1
+CAT0120,Baby Care - Premium,CAT0115,3,CAT0006,"Baby, Kids & Toys",1
+CAT0121,Baby Care - Refill,CAT0115,3,CAT0006,"Baby, Kids & Toys",0
+CAT0122,Baby Care - Mini,CAT0115,3,CAT0006,"Baby, Kids & Toys",0
+CAT0123,Baby Care - Trial,CAT0115,3,CAT0006,"Baby, Kids & Toys",0
+CAT0124,"Baby, Kids & Toys / Baby Food",CAT0006,2,CAT0006,"Baby, Kids & Toys",0
+CAT0125,Baby Food - Bulk,CAT0124,3,CAT0006,"Baby, Kids & Toys",0
+CAT0126,Baby Food - Mini,CAT0124,3,CAT0006,"Baby, Kids & Toys",0
+CAT0127,Baby Food - Organic,CAT0124,3,CAT0006,"Baby, Kids & Toys",0
+CAT0128,"Baby, Kids & Toys / Diapering",CAT0006,2,CAT0006,"Baby, Kids & Toys",0
+CAT0129,Diapering - Family Pack,CAT0128,3,CAT0006,"Baby, Kids & Toys",0
+CAT0130,Diapering - Trial,CAT0128,3,CAT0006,"Baby, Kids & Toys",0
+CAT0131,Diapering - Imported,CAT0128,3,CAT0006,"Baby, Kids & Toys",1
+CAT0132,"Baby, Kids & Toys / Strollers",CAT0006,2,CAT0006,"Baby, Kids & Toys",0
+CAT0133,Strollers - Value,CAT0132,3,CAT0006,"Baby, Kids & Toys",0
+CAT0134,Strollers - Mini,CAT0132,3,CAT0006,"Baby, Kids & Toys",0
+CAT0135,Strollers - Imported,CAT0132,3,CAT0006,"Baby, Kids & Toys",1

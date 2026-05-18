@@ -1,0 +1,55 @@
+event_id,store_id,event_type,start_date,end_date,impact_severity,description
+EVT00001,STR00119,renovation,2024-11-08,2024-12-13,full_closure,Scheduled store renovation; physical operations suspended.
+EVT00002,STR00071,renovation,2026-01-01,2026-03-08,full_closure,Scheduled store renovation; physical operations suspended.
+EVT00003,STR00010,renovation,2024-12-19,2025-01-15,full_closure,Scheduled store renovation; physical operations suspended.
+EVT00004,STR00027,renovation,2025-09-22,2025-10-31,full_closure,Scheduled store renovation; physical operations suspended.
+EVT00005,STR00013,renovation,2024-06-26,2024-07-24,full_closure,Scheduled store renovation; physical operations suspended.
+EVT00006,STR00138,renovation,2025-11-17,2026-01-08,full_closure,Scheduled store renovation; physical operations suspended.
+EVT00007,STR00023,renovation,2025-07-21,2025-08-27,full_closure,Scheduled store renovation; physical operations suspended.
+EVT00008,STR00142,renovation,2024-07-23,2024-08-27,full_closure,Scheduled store renovation; physical operations suspended.
+EVT00009,STR00038,renovation,2025-12-21,2026-01-10,full_closure,Scheduled store renovation; physical operations suspended.
+EVT00010,STR00113,renovation,2025-08-09,2025-10-01,full_closure,Scheduled store renovation; physical operations suspended.
+EVT00011,STR00059,renovation,2025-01-28,2025-03-14,full_closure,Scheduled store renovation; physical operations suspended.
+EVT00012,STR00124,renovation,2024-06-17,2024-08-26,full_closure,Scheduled store renovation; physical operations suspended.
+EVT00013,STR00130,renovation,2025-05-21,2025-06-29,full_closure,Scheduled store renovation; physical operations suspended.
+EVT00014,STR00087,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00015,STR00060,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00016,STR00135,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00017,STR00126,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00018,STR00024,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00019,STR00021,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00020,STR00078,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00021,STR00137,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00022,STR00144,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00023,STR00010,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00024,STR00106,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00025,STR00049,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00026,STR00026,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00027,STR00084,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00028,STR00148,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00029,STR00121,flood_closure,2024-07-18,2024-07-27,full_closure,Mumbai monsoon flooding — extended store closures across low-lying clusters.
+EVT00030,STR00136,strike,2025-02-11,2025-02-15,full_closure,Citywide transport strike disrupted store staffing and last-mile.
+EVT00031,STR00050,strike,2025-02-11,2025-02-15,full_closure,Citywide transport strike disrupted store staffing and last-mile.
+EVT00032,STR00040,strike,2025-02-11,2025-02-15,full_closure,Citywide transport strike disrupted store staffing and last-mile.
+EVT00033,STR00086,strike,2025-02-11,2025-02-15,full_closure,Citywide transport strike disrupted store staffing and last-mile.
+EVT00034,STR00083,strike,2025-02-11,2025-02-15,full_closure,Citywide transport strike disrupted store staffing and last-mile.
+EVT00035,STR00070,strike,2025-02-11,2025-02-15,full_closure,Citywide transport strike disrupted store staffing and last-mile.
+EVT00036,STR00004,strike,2025-02-11,2025-02-15,full_closure,Citywide transport strike disrupted store staffing and last-mile.
+EVT00037,STR00043,strike,2025-02-11,2025-02-15,full_closure,Citywide transport strike disrupted store staffing and last-mile.
+EVT00038,STR00017,strike,2025-02-11,2025-02-15,full_closure,Citywide transport strike disrupted store staffing and last-mile.
+EVT00039,STR00081,system_outage,2025-09-05,2025-09-11,system_only,POS/order-management migration outage; orders fell back to manual entry.
+EVT00040,STR00044,system_outage,2025-09-05,2025-09-11,system_only,POS/order-management migration outage; orders fell back to manual entry.
+EVT00041,STR00053,system_outage,2025-09-05,2025-09-11,system_only,POS/order-management migration outage; orders fell back to manual entry.
+EVT00042,STR00089,system_outage,2025-09-05,2025-09-11,system_only,POS/order-management migration outage; orders fell back to manual entry.
+EVT00043,STR00125,system_outage,2025-09-05,2025-09-11,system_only,POS/order-management migration outage; orders fell back to manual entry.
+EVT00044,STR00062,system_outage,2025-09-05,2025-09-11,system_only,POS/order-management migration outage; orders fell back to manual entry.
+EVT00045,STR00068,system_outage,2025-09-05,2025-09-11,system_only,POS/order-management migration outage; orders fell back to manual entry.
+EVT00046,STR00076,system_outage,2025-09-05,2025-09-11,system_only,POS/order-management migration outage; orders fell back to manual entry.
+EVT00047,STR00036,system_outage,2025-09-05,2025-09-11,system_only,POS/order-management migration outage; orders fell back to manual entry.
+EVT00048,STR00059,system_outage,2025-09-05,2025-09-11,system_only,POS/order-management migration outage; orders fell back to manual entry.
+EVT00049,STR00067,system_outage,2025-09-05,2025-09-11,system_only,POS/order-management migration outage; orders fell back to manual entry.
+EVT00050,STR00117,system_outage,2025-09-05,2025-09-11,system_only,POS/order-management migration outage; orders fell back to manual entry.
+EVT00051,STR00055,system_outage,2025-09-05,2025-09-11,system_only,POS/order-management migration outage; orders fell back to manual entry.
+EVT00052,STR00098,permanent_closure,2026-01-24,,full_closure,Store permanently closed.
+EVT00053,STR00099,permanent_closure,2026-02-06,,full_closure,Store permanently closed.
+EVT00054,STR00066,permanent_closure,2026-02-17,,full_closure,Store permanently closed.

@@ -1,0 +1,151 @@
+store_id,store_name,store_type,city,state,current_region_id,launch_date,store_size_sqft,manager_name,is_active_flag
+STR00001,Urban Physical - Hyderabad,physical,Hyderabad,Telangana,HYD,2024-01-03,2500,Nilima Kashyap,1
+STR00002,Bharat Dark Store - Kolkata,dark_store,Kolkata,West Bengal,KOL,2024-11-29,1500,Krish Tailor,1
+STR00003,Daily Dark Store - Gandhinagar,dark_store,Gandhinagar,Gujarat,AHM,2021-07-16,4000,Vyanjana Bhakta,1
+STR00004,Daily Physical - Salt Lake,physical,Salt Lake,West Bengal,KOL,2025-05-19,4000,Riya Das,1
+STR00005,GreenLeaf Dark Store - Bengaluru,dark_store,Bengaluru,Karnataka,BLR,2021-06-12,1500,Rishi Kapadia,1
+STR00006,Daily Online Fulfillment - Thane,online_fulfillment,Thane,Maharashtra,MUM,2020-02-11,1500,Utkarsh Sundaram,1
+STR00007,GreenLeaf Dark Store - Thane,dark_store,Thane,Maharashtra,MUM,2020-12-18,1500,Deepa Salvi,1
+STR00008,Daily Dark Store - Tambaram,dark_store,Tambaram,Tamil Nadu,CHN,2022-12-16,8000,Wakeeta Dada,1
+STR00009,Urban Physical - Hinjewadi,physical,Hinjewadi,Maharashtra,PUN,2020-10-22,1500,Daksha Bava,1
+STR00010,Daily Physical - Thane,physical,Thane,Maharashtra,MUM,2023-05-25,8000,Vrinda Guha,1
+STR00011,Apna Physical - Faridabad,physical,Faridabad,Delhi,DEL,2021-12-12,4000,Oeshi Koshy,1
+STR00012,Daily Dark Store - Chennai,dark_store,Chennai,Tamil Nadu,CHN,2022-02-11,8000,Girindra Mital,1
+STR00013,Urban Dark Store - Tambaram,dark_store,Tambaram,Tamil Nadu,CHN,2021-04-17,8000,Tara Gade,1
+STR00014,Bharat Dark Store - Pune,dark_store,Pune,Maharashtra,PUN,2022-11-08,15000,Vrishti Vig,1
+STR00015,Metro Online Fulfillment - Noida,online_fulfillment,Noida,Delhi,DEL,2024-02-24,1500,Nicholas Krishnamurthy,1
+STR00016,Urban Physical - Noida,physical,Noida,Delhi,DEL,2020-11-20,2500,Chatura Sachdev,1
+STR00017,Daily Physical - Kolkata,physical,Kolkata,West Bengal,KOL,2025-02-06,2500,Rayaan Mital,1
+STR00018,Urban Dark Store - Navi Mumbai,dark_store,Navi Mumbai,Maharashtra,MUM,2021-01-29,8000,Wriddhish Rajagopal,1
+STR00019,Bharat Physical - Bengaluru,physical,Bengaluru,Karnataka,BLR,2021-05-03,4000,Matthew Balay,1
+STR00020,Metro Physical - Secunderabad,physical,Secunderabad,Telangana,HYD,2020-01-26,4000,Mugdha Lall,1
+STR00021,Urban Physical - Thane,physical,Thane,Maharashtra,MUM,2022-12-01,4000,Jonathan De,1
+STR00022,Urban Dark Store - Chennai,dark_store,Chennai,Tamil Nadu,CHN,2025-03-20,4000,Keya Solanki,1
+STR00023,QuickMart Physical - Noida,physical,Noida,Delhi,DEL,2021-03-03,8000,Hema Sandal,1
+STR00024,QuickMart Physical - Mumbai,physical,Mumbai,Maharashtra,MUM,2022-04-24,4000,Tristan Solanki,1
+STR00025,GreenLeaf Dark Store - Noida,dark_store,Noida,Delhi,DEL,2022-04-25,2500,Fitan Butala,1
+STR00026,Urban Online Fulfillment - Mumbai,online_fulfillment,Mumbai,Maharashtra,MUM,2021-01-22,2500,Tanveer Kale,1
+STR00027,Urban Physical - Gandhinagar,physical,Gandhinagar,Gujarat,AHM,2021-10-20,4000,Oviya Kumer,1
+STR00028,QuickMart Physical - Secunderabad,physical,Secunderabad,Telangana,HYD,2021-08-14,2500,Hredhaan Dass,1
+STR00029,Apna Online Fulfillment - Hinjewadi,online_fulfillment,Hinjewadi,Maharashtra,PUN,2020-11-18,8000,Amaira Bedi,1
+STR00030,GreenLeaf Online Fulfillment - Kolkata,online_fulfillment,Kolkata,West Bengal,KOL,2023-03-05,2500,Anthony Sidhu,1
+STR00031,Urban Online Fulfillment - New Delhi,online_fulfillment,New Delhi,Delhi,DEL,2024-03-07,8000,Ridhi Lal,1
+STR00032,Urban Dark Store - Noida,dark_store,Noida,Delhi,DEL,2020-01-26,2500,Jason Dass,1
+STR00033,GreenLeaf Physical - Bengaluru,physical,Bengaluru,Karnataka,BLR,2024-11-03,4000,Akshay Lall,1
+STR00034,Daily Physical - Hinjewadi,physical,Hinjewadi,Maharashtra,PUN,2021-09-03,1500,Zarna Sachdeva,1
+STR00035,Metro Dark Store - Howrah,dark_store,Howrah,West Bengal,KOL,2020-11-25,1500,Jalsa Doctor,1
+STR00036,QuickMart Online Fulfillment - Electronic City,online_fulfillment,Electronic City,Karnataka,BLR,2020-07-03,4000,Leena Arora,1
+STR00037,Urban Physical - Pune,physical,Pune,Maharashtra,PUN,2022-09-12,2500,Aditya Acharya,1
+STR00038,Metro Dark Store - Pimpri,dark_store,Pimpri,Maharashtra,AHM,2023-01-01,2500,Anvi Minhas,1
+STR00039,Urban Dark Store - Electronic City,dark_store,Electronic City,Karnataka,CHN,2023-02-21,2500,Balhaar Vig,1
+STR00040,Urban Physical - Salt Lake,physical,Salt Lake,West Bengal,KOL,2020-10-17,4000,Udyati Handa,1
+STR00041,QuickMart Dark Store - Tambaram,dark_store,Tambaram,Tamil Nadu,CHN,2022-05-02,1500,Megha Krishna,1
+STR00042,Urban Physical - Pimpri,physical,Pimpri,Maharashtra,PUN,2021-07-28,1500,Tamanna Viswanathan,1
+STR00043,Metro Dark Store - Salt Lake,dark_store,Salt Lake,West Bengal,KOL,2023-05-26,4000,Pranit Verma,1
+STR00044,Daily Physical - Electronic City,physical,Electronic City,Karnataka,BLR,2021-09-25,2500,Jairaj Goyal,1
+STR00045,Apna Physical - Gurugram,physical,Gurugram,Delhi,DEL,2020-04-17,8000,Mugdha Chada,1
+STR00046,Metro Physical - Gandhinagar,physical,Gandhinagar,Gujarat,AHM,2022-09-25,8000,Jonathan Sur,1
+STR00047,GreenLeaf Physical - Tambaram,physical,Tambaram,Tamil Nadu,CHN,2020-06-14,2500,Caleb Hans,1
+STR00048,Metro Dark Store - Howrah,dark_store,Howrah,West Bengal,KOL,2022-03-13,1500,Ati Bali,1
+STR00049,Urban Online Fulfillment - Kalyan,online_fulfillment,Kalyan,Maharashtra,MUM,2020-01-11,8000,Azad Issac,1
+STR00050,Apna Dark Store - Howrah,dark_store,Howrah,West Bengal,KOL,2023-01-15,1500,Panini Borra,1
+STR00051,Daily Online Fulfillment - Porur,online_fulfillment,Porur,Tamil Nadu,CHN,2022-11-24,15000,Yug Bora,1
+STR00052,QuickMart Physical - Secunderabad,physical,Secunderabad,Telangana,HYD,2022-09-06,800,Rayaan Datta,1
+STR00053,GreenLeaf Online Fulfillment - Electronic City,online_fulfillment,Electronic City,Karnataka,BLR,2020-04-26,8000,Zayan Som,1
+STR00054,Metro Dark Store - Ghaziabad,dark_store,Ghaziabad,Delhi,DEL,2020-06-22,1500,Jagvi Kapoor,1
+STR00055,QuickMart Online Fulfillment - Whitefield,online_fulfillment,Whitefield,Karnataka,BLR,2021-01-07,2500,Theodore D’Alia,1
+STR00056,Apna Online Fulfillment - Secunderabad,online_fulfillment,Secunderabad,Telangana,HYD,2020-07-14,15000,Isaiah Babu,1
+STR00057,GreenLeaf Dark Store - Faridabad,dark_store,Faridabad,Delhi,DEL,2020-11-15,2500,Zansi Patla,1
+STR00058,Apna Physical - Hinjewadi,physical,Hinjewadi,Maharashtra,PUN,2021-10-03,1500,Chatura Rattan,1
+STR00059,Urban Online Fulfillment - Electronic City,online_fulfillment,Electronic City,Karnataka,BLR,2021-06-18,8000,Caleb Rai,1
+STR00060,Metro Physical - Mumbai,physical,Mumbai,Maharashtra,MUM,2020-10-11,2500,Nimrat Sinha,1
+STR00061,GreenLeaf Dark Store - Ahmedabad,dark_store,Ahmedabad,Gujarat,AHM,2023-05-30,2500,Sarthak Dave,1
+STR00062,Urban Physical - Bengaluru,physical,Bengaluru,Karnataka,BLR,2020-08-06,4000,Mugdha Ramesh,1
+STR00063,QuickMart Online Fulfillment - Tambaram,online_fulfillment,Tambaram,Tamil Nadu,CHN,2021-11-20,4000,Unni Parmer,1
+STR00064,QuickMart Physical - Pune,physical,Pune,Maharashtra,PUN,2021-06-15,1500,Hiral Baria,1
+STR00065,Daily Dark Store - Howrah,dark_store,Howrah,West Bengal,KOL,2022-03-11,2500,Ria Acharya,1
+STR00066,Apna Dark Store - Ahmedabad,dark_store,Ahmedabad,Gujarat,AHM,2021-10-20,2500,Jack Sinha,1
+STR00067,Urban Physical - Whitefield,physical,Whitefield,Karnataka,BLR,2020-05-15,8000,Jai Sule,1
+STR00068,Urban Dark Store - Bengaluru,dark_store,Bengaluru,Karnataka,BLR,2021-09-25,4000,Vedhika Misra,1
+STR00069,GreenLeaf Dark Store - Tambaram,dark_store,Tambaram,Tamil Nadu,CHN,2021-11-13,2500,Anya Acharya,1
+STR00070,Apna Dark Store - Thane,dark_store,Thane,Maharashtra,KOL,2020-02-15,8000,Ladli Seshadri,1
+STR00071,Bharat Physical - Secunderabad,physical,Secunderabad,Telangana,HYD,2021-06-27,4000,Bhavna Suresh,1
+STR00072,Metro Online Fulfillment - Gandhinagar,online_fulfillment,Gandhinagar,Gujarat,AHM,2023-05-04,2500,Ishita Korpal,1
+STR00073,QuickMart Online Fulfillment - Gurugram,online_fulfillment,Gurugram,Delhi,DEL,2022-01-22,1500,Ayushman Dada,1
+STR00074,Daily Physical - Chennai,physical,Chennai,Tamil Nadu,CHN,2022-02-17,2500,Upma Dara,1
+STR00075,Bharat Dark Store - Secunderabad,dark_store,Secunderabad,Telangana,HYD,2023-04-23,4000,Adya Chander,1
+STR00076,Urban Physical - Electronic City,physical,Electronic City,Karnataka,BLR,2022-07-10,4000,Hritik Nadig,1
+STR00077,GreenLeaf Online Fulfillment - Porur,online_fulfillment,Porur,Tamil Nadu,CHN,2022-03-22,4000,Quincy Wali,1
+STR00078,GreenLeaf Online Fulfillment - Kalyan,online_fulfillment,Kalyan,Maharashtra,MUM,2023-05-01,2500,Omya Toor,1
+STR00079,QuickMart Dark Store - Noida,dark_store,Noida,Delhi,DEL,2021-07-15,8000,Robert Rastogi,1
+STR00080,QuickMart Physical - Pimpri,physical,Pimpri,Maharashtra,PUN,2021-11-16,2500,Mason Shenoy,1
+STR00081,GreenLeaf Physical - Bengaluru,physical,Bengaluru,Karnataka,BLR,2025-02-01,1500,Abhiram Roy,1
+STR00082,Bharat Online Fulfillment - Ahmedabad,online_fulfillment,Ahmedabad,Gujarat,AHM,2021-12-30,4000,Ishaan Chana,1
+STR00083,QuickMart Physical - Salt Lake,physical,Salt Lake,West Bengal,KOL,2022-08-11,4000,Robert Basak,1
+STR00084,Urban Physical - Thane,physical,Thane,Maharashtra,MUM,2022-10-22,4000,Eta Kalla,1
+STR00085,Apna Physical - Vadodara,physical,Vadodara,Gujarat,AHM,2020-07-24,2500,Gaurangi Sathe,1
+STR00086,Urban Online Fulfillment - Kolkata,online_fulfillment,Kolkata,West Bengal,KOL,2022-08-22,1500,Omya Pau,1
+STR00087,Apna Online Fulfillment - Kalyan,online_fulfillment,Kalyan,Maharashtra,MUM,2020-09-09,15000,Vanya Biswas,1
+STR00088,Apna Dark Store - Pune,dark_store,Pune,Maharashtra,PUN,2021-03-05,1500,Lekha Mody,1
+STR00089,Bharat Physical - Whitefield,physical,Whitefield,Karnataka,BLR,2020-06-02,2500,Rushil Viswanathan,1
+STR00090,QuickMart Dark Store - Hyderabad,dark_store,Hyderabad,Telangana,HYD,2020-09-03,1500,Vinaya Virk,1
+STR00091,GreenLeaf Physical - Noida,physical,Noida,Delhi,DEL,2023-03-29,2500,Edhitha Vyas,1
+STR00092,Metro Dark Store - Gachibowli,dark_store,Gachibowli,Telangana,HYD,2019-12-15,15000,Samar Balay,1
+STR00093,Apna Dark Store - Whitefield,dark_store,Whitefield,Karnataka,BLR,2021-02-03,2500,Adya Kapoor,1
+STR00094,Apna Physical - Vadodara,physical,Vadodara,Gujarat,AHM,2025-10-20,2500,Gaurangi Sankar,1
+STR00095,Daily Online Fulfillment - Tambaram,online_fulfillment,Tambaram,Tamil Nadu,CHN,2020-12-16,800,Kabir Kadakia,1
+STR00096,Apna Physical - Chennai,physical,Chennai,Tamil Nadu,CHN,2022-06-25,2500,Unni Sabharwal,1
+STR00097,Daily Dark Store - Porur,dark_store,Porur,Tamil Nadu,PUN,2022-07-14,2500,Inaya Sood,1
+STR00098,GreenLeaf Dark Store - Porur,dark_store,Porur,Tamil Nadu,CHN,2023-05-30,2500,Oliver Gour,1
+STR00099,QuickMart Physical - Hinjewadi,physical,Hinjewadi,Maharashtra,PUN,2020-11-30,2500,Sarthak Butala,1
+STR00100,Apna Online Fulfillment - Tambaram,online_fulfillment,Tambaram,Tamil Nadu,PUN,2022-01-14,1500,Vaishnavi Arora,1
+STR00101,Urban Physical - Porur,physical,Porur,Tamil Nadu,CHN,2022-01-26,2500,Neelima Chadha,1
+STR00102,Bharat Dark Store - Ghaziabad,dark_store,Ghaziabad,Delhi,DEL,2020-04-24,4000,Chatura Rau,1
+STR00103,Apna Physical - Chennai,physical,Chennai,Tamil Nadu,CHN,2023-02-07,2500,Meera Issac,1
+STR00104,Apna Physical - Hinjewadi,physical,Hinjewadi,Maharashtra,PUN,2020-06-01,1500,Prisha Raju,1
+STR00105,GreenLeaf Dark Store - Hyderabad,dark_store,Hyderabad,Telangana,HYD,2020-06-02,4000,Jonathan Bansal,1
+STR00106,GreenLeaf Dark Store - Mumbai,dark_store,Mumbai,Maharashtra,MUM,2021-11-07,2500,Devika Gade,1
+STR00107,Daily Dark Store - Pimpri,dark_store,Pimpri,Maharashtra,PUN,2022-09-11,2500,Isha Saxena,1
+STR00108,Apna Dark Store - Gachibowli,dark_store,Gachibowli,Telangana,HYD,2020-10-21,1500,Pavani Johal,1
+STR00109,GreenLeaf Physical - Secunderabad,physical,Secunderabad,Telangana,HYD,2019-12-27,4000,Viraj Viswanathan,1
+STR00110,Apna Physical - Hyderabad,physical,Hyderabad,Telangana,HYD,2021-03-05,800,Joshua Naik,1
+STR00111,Apna Physical - New Delhi,physical,New Delhi,Delhi,DEL,2020-06-23,2500,Bhavani Natarajan,1
+STR00112,Apna Physical - Gandhinagar,physical,Gandhinagar,Gujarat,AHM,2022-08-06,2500,Sudiksha Jaggi,1
+STR00113,QuickMart Online Fulfillment - Electronic City,online_fulfillment,Electronic City,Karnataka,BLR,2020-11-13,8000,Amaira Vora,1
+STR00114,Apna Physical - Navi Mumbai,physical,Navi Mumbai,Maharashtra,MUM,2020-10-27,2500,Garima Sharma,1
+STR00115,GreenLeaf Physical - Secunderabad,physical,Secunderabad,Telangana,HYD,2023-04-11,2500,Ranveer Pau,1
+STR00116,Apna Physical - Porur,physical,Porur,Tamil Nadu,CHN,2021-12-12,4000,Saumya Chatterjee,1
+STR00117,Apna Physical - Whitefield,physical,Whitefield,Karnataka,BLR,2024-08-13,15000,Bachittar Sarma,1
+STR00118,Bharat Online Fulfillment - Thane,online_fulfillment,Thane,Maharashtra,MUM,2019-12-30,8000,Balveer Dua,1
+STR00119,Bharat Physical - Faridabad,physical,Faridabad,Delhi,DEL,2024-11-15,2500,Devansh Apte,1
+STR00120,QuickMart Online Fulfillment - Ahmedabad,online_fulfillment,Ahmedabad,Gujarat,AHM,2022-09-06,2500,Indrajit Dubey,1
+STR00121,QuickMart Physical - Thane,physical,Thane,Maharashtra,MUM,2021-03-17,4000,Udarsh Jhaveri,1
+STR00122,QuickMart Dark Store - Noida,dark_store,Noida,Delhi,PUN,2019-12-22,4000,Chandran Narang,1
+STR00123,Metro Physical - Secunderabad,physical,Secunderabad,Telangana,HYD,2022-12-21,2500,Meghana Mand,1
+STR00124,GreenLeaf Online Fulfillment - Porur,online_fulfillment,Porur,Tamil Nadu,CHN,2022-05-22,2500,Joshua Korpal,1
+STR00125,QuickMart Physical - Bengaluru,physical,Bengaluru,Karnataka,BLR,2020-11-14,2500,Anusha Chadha,1
+STR00126,Apna Physical - Thane,physical,Thane,Maharashtra,MUM,2022-10-17,1500,Yug Mannan,1
+STR00127,Apna Dark Store - Ahmedabad,dark_store,Ahmedabad,Gujarat,AHM,2022-08-20,8000,Lekha Bhalla,1
+STR00128,Bharat Dark Store - Chennai,dark_store,Chennai,Tamil Nadu,CHN,2025-05-06,2500,Oliver Mand,1
+STR00129,Daily Physical - Vadodara,physical,Vadodara,Gujarat,AHM,2025-07-17,8000,Upadhriti Shah,1
+STR00130,Daily Online Fulfillment - Gachibowli,online_fulfillment,Gachibowli,Telangana,HYD,2022-07-15,2500,Vyanjana Ahluwalia,1
+STR00131,Metro Dark Store - Ahmedabad,dark_store,Ahmedabad,Gujarat,AHM,2021-08-19,4000,Faraj Rout,1
+STR00132,Bharat Online Fulfillment - Hinjewadi,online_fulfillment,Hinjewadi,Maharashtra,PUN,2021-06-15,4000,Ekansh Rana,1
+STR00133,Urban Physical - Faridabad,physical,Faridabad,Delhi,DEL,2024-05-06,2500,Libni Hari,1
+STR00134,Apna Physical - Kalyan,physical,Kalyan,Maharashtra,MUM,2024-04-04,2500,Vasana Sharma,1
+STR00135,Bharat Physical - Thane,physical,Thane,Maharashtra,MUM,2020-10-17,4000,Gavin Atwal,1
+STR00136,Metro Physical - Kolkata,physical,Kolkata,West Bengal,KOL,2020-01-23,4000,Wriddhish Mukhopadhyay,1
+STR00137,Metro Physical - Navi Mumbai,physical,Navi Mumbai,Maharashtra,MUM,2023-06-02,1500,Pahal Tripathi,1
+STR00138,GreenLeaf Physical - Tambaram,physical,Tambaram,Tamil Nadu,CHN,2022-05-13,4000,Lajita Swaminathan,1
+STR00139,Metro Online Fulfillment - Pimpri,online_fulfillment,Pimpri,Maharashtra,PUN,2021-06-02,4000,Anika Prabhakar,1
+STR00140,Daily Physical - Mumbai,physical,Mumbai,Maharashtra,MUM,2022-12-10,1500,Qabil Chawla,1
+STR00141,Urban Physical - Gachibowli,physical,Gachibowli,Telangana,HYD,2022-01-30,2500,Saanvi Mistry,1
+STR00142,Metro Physical - Electronic City,physical,Electronic City,Karnataka,BLR,2019-12-14,2500,Advik Nagy,1
+STR00143,GreenLeaf Physical - Porur,physical,Porur,Tamil Nadu,CHN,2022-05-17,800,Ira Sekhon,1
+STR00144,Daily Physical - Thane,physical,Thane,Maharashtra,MUM,2020-01-07,4000,Tanveer Vaidya,1
+STR00145,Metro Physical - Chennai,physical,Chennai,Tamil Nadu,CHN,2020-08-09,1500,Tara Puri,1
+STR00146,Metro Dark Store - Ahmedabad,dark_store,Ahmedabad,Gujarat,AHM,2022-05-05,1500,David Dhawan,1
+STR00147,Apna Physical - Gandhinagar,physical,Gandhinagar,Gujarat,AHM,2025-03-16,2500,Jairaj Menon,1
+STR00148,QuickMart Physical - Thane,physical,Thane,Maharashtra,MUM,2020-11-29,4000,Qushi Subramanian,1
+STR00149,Apna Physical - Vadodara,physical,Vadodara,Gujarat,AHM,2024-01-21,4000,Gagan Chander,1
+STR00150,Apna Physical - Pune,physical,Pune,Maharashtra,PUN,2021-05-20,2500,Tejas Apte,1

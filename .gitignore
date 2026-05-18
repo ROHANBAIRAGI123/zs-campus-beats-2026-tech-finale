@@ -1,0 +1,15 @@
+# bulk data — fetched from S3, never committed
+data/*.csv.gz
+data/manifest.json
+zs_challenge.duckdb
+*.duckdb.wal
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
