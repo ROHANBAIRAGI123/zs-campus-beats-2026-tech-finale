@@ -2,7 +2,7 @@
 
 > **Superset × ZS Associates · Campus Beats 2026**
 >
-> Confidential — for participating teams. Released **19 Mar 2026**.
+> Confidential — for participating teams. Released **19 May 2026**.
 
 This repository holds the dataset, instructions, and tooling for the **Retail Network Intelligence** challenge. You will work with a relational dataset modelled on a multi-city Indian retail chain (physical stores, dark stores, online-fulfilment centres) and answer business questions across **4 parts**.
 
