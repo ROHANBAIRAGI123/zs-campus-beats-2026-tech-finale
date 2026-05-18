@@ -28,7 +28,7 @@ from pathlib import Path
 # ----------------------------------------------------------------------------
 DEFAULT_MANIFEST_URL = os.environ.get(
     "ZSCHALLENGE_MANIFEST_URL",
-    "https://zs-tech-challenge-2026.s3.ap-south-1.amazonaws.com/v1/manifest.json",
+    "https://superset-ej-2026-zs-campus-beats.s3.us-west-2.amazonaws.com/v1/manifest.json",
 )
 
 ROOT = Path(__file__).resolve().parent.parent
